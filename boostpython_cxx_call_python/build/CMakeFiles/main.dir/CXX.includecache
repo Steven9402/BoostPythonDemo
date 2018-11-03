@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cuizhou/myGitRepositories/myBoostPython/boostpython_cxx_call_python/main.cpp
+boost/python.hpp
+-
+iostream
+-
+string
+-
+stdlib.h
+-
+
